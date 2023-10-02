@@ -15,7 +15,7 @@
 
 ## 👨🏿‍💻 About Me
 
-<div style="padding-bottom: 3rem">
+<div style="padding-bottom: 2rem">
     <p>🔍 Software Developer, Coder, Maker, I enjoy the vast aspects to what technology has to offer.</p>
     <p>📜 I am currently a 3rd year Computer Science student at Toronto Metropolitan University.</p>
     <p>📇 Feel free to reach out to collaborate or inquiry about anything!</p>
@@ -23,7 +23,7 @@
 
 ## 🛠️ Languages and Tools I've Used :
 
-<div style="padding-bottom: 3rem">
+<div style="padding-bottom: 2rem">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
@@ -56,7 +56,9 @@
 
 </div>
 
-<div id="Stats" style="display:flex; align-items:center;padding-bottom: 3rem">
+## Stats
+
+<div id="Stats" style="display:flex; align-items:center;padding-bottom: 2rem">
     <picture>
     <source
         srcset="https://github-readme-stats.vercel.app/api?username=asherand&show_icons=true&theme=dark"
