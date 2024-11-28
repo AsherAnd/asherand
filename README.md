@@ -17,7 +17,7 @@
 
 <div style="padding-bottom: 2rem">
     <p>🔍 Software Developer, Coder, Maker, I enjoy the vast aspects to what programming has to offer.</p>
-    <p>📜 I am currently a 3rd year Computer Science student at Toronto Metropolitan University.</p>
+    <p>📜 I am currently in my final year of Computer Science student at Toronto Metropolitan University.</p>
     <p>📇 Feel free to reach out to collaborate or inquiry about anything!</p>
 </div>
 
